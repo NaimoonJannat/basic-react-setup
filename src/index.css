@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&display=swap');
+
+@import "tailwindcss";
+@plugin "daisyui";
+
+.primaryColor{
+    background-color: #001f3f;    
+}
+.secondaryColor{
+    background-color: #d4ff00;
+}
+.primaryTextColor{
+    color: #001f3f;    
+}
+.secondaryTextColor{
+    color: #d4ff00;
+}
+
+
+
+
+.font-title{
+      font-family: "Newsreader", serif;
+}
